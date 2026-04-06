@@ -13,12 +13,12 @@
 
 | | |
 |---|---|
-| **Live Demo** | [zorvyn-finance.vercel.app](https://zorvyn-finance.vercel.app) |
-| **Repository** | [github.com/aditiranjan/zorvyn-finance](https://github.com/aditiranjan/zorvyn-finance) |
+| **Live Demo** | [zorvyn-finance.vercel.app](https://finance-tracker-wjoe.vercel.app/) |
+| **Repository** | [github.com/aditiranjan/zorvyn-finance](https://github.com/Aditi0004/FinanceTracker) |
 
 ---
 
-## ✨ Overview
+## Overview
 
 Zorvyn Finance is a fully client-side personal finance dashboard. It covers every required feature — and several beyond — including a hand-crafted 52-week spending heatmap, an aurora animated canvas background, multi-currency conversion, bill reminders with overdue alerts, saving goal tracker, and recurring transaction templates.
 
@@ -26,7 +26,7 @@ Everything runs in the browser. No backend, no API keys required. Data persists 
 
 ---
 
-## 🚀 Features
+## Features
 
 ### Dashboard Overview
 - Animated count-up stat cards — Total Balance, Income, Expenses with month-over-month % change
@@ -107,7 +107,7 @@ Everything runs in the browser. No backend, no API keys required. Data persists 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 zorvyn-finance/
@@ -125,7 +125,7 @@ zorvyn-finance/
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18+
@@ -165,7 +165,7 @@ vercel --prod
 
 ---
 
-## 🎨 Design Decisions
+## Design Decisions
 
 **Single-file architecture** — Keeps the codebase readable in one scroll for reviewers. Production code would use a standard `components/pages/store/` structure.
 
@@ -199,7 +199,7 @@ vercel --prod
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Live exchange rates via `frankfurter.app` with 6-hour client cache
 - TypeScript migration with strict types for all data models
@@ -212,9 +212,9 @@ vercel --prod
 
 ---
 
-## 👩‍💻 Author
+## Author
 
-**Aditi Ranjan** — VIT Student
+**Aditi Ranjan**
 
 ---
 
